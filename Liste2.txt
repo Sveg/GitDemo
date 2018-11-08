@@ -12,3 +12,6 @@ Kakao
 
 Ananas
 Bananer
+Pasta
+Tun
+Kylling
