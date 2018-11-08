@@ -9,3 +9,5 @@ Sodavand
 Chips
 Slik
 Kakao
+
+Ananas
